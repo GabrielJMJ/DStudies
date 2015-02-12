@@ -4,7 +4,7 @@ class App
 {
     public void run()
     {
-        writefln("Running application...");
+        writeln("Running application...");
     }
 }
 
